@@ -46,3 +46,20 @@ body{
   color: black;
   font-size: 1.6rem;
 }
+
+.slider-container{
+  padding: 0;
+  overflow: hidden;
+}
+
+.main-container{
+  background: #fff;
+}
+
+.main-container > article > header > h2{
+  font-weight: 600;
+  font-size: 1.7rem;
+  text-align: center;
+  padding-top: 2.5rem;
+  padding-bottom: 1.8rem;
+}
